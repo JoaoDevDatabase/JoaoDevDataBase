@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm João Vitor!</h1>
-<h3 align="center">I'm a database student with Python language and among other technologies!</h3>
+<h1 align="center">Hi, My name is John!</h1>
+<h3 align="center">I'm a Java student and other technologies!</h3>
 
-- 🌱 I’m currently learning **Django, Python, PostgreeSQL**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python and things about data base**
+- 💬 Ask me about **Golang and DevOps with CI/CD**
 
 - 📫 How to reach me **joaovitorstellet@gmail.com**
 
