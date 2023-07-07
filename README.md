@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, GOlang, Python.</strong>
+  💻 Linguagens: <strong>Java, GOlang, Python.</strong>
 </p>
 
 <p align="left">
