@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, Kubernets, GitLab, Git, Postman, CLI.</strong>
+  💼 Ferramentas: <strong>Docker, Kubernets, GitLab, Git, Postman, CLI, Linux.</strong>
 </p>
 
 <p align="left">
