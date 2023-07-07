@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Olá me chamo João Vitor e sou Programador Jr em<strong> JAVA</strong>.<br>
-  Atualmente busco migrar de carreira, e aprender cada mais um pouco de conhecimento sobre tecnologia, <OPEN TO WORK>.
+  Atualmente busco migrar de carreira, e aprender cada vez mais, um pouco de conhecimento sobre tecnologia<OPEN TO WORK>.
 </p>
 
 <p align="left">
